@@ -1,7 +1,7 @@
 # realitycheck
 
 ## Summary
-A sample app that validates some basic CircleCI features in three parallel workflows.
+A sample app that validates some basic CircleCI features in three parallel workflows. Updated Readme file
 
 **NOTE**: Please read the entirety of this README before continuing. There are some important prerequisites.
 
